@@ -1,4 +1,48 @@
 <h1 align="center">Hi 👋, I'm Shehan Dulmina</h1>
+
+<div class="banter-loader" style="position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 72px;
+  height: 72px;
+  margin-left: -36px;
+  margin-top: -36px;">
+  <div class="banter-loader__box" style="float: left;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin-right: 6px;"></div>
+  <div class="banter-loader__box" style="float: left;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin-right: 6px;"></div>
+  <div class="banter-loader__box" style="float:left;position:relative;width:20px;height:20px;margin-right:0;margin-bottom:6px;"></div>
+  <div class="banter-loader__box" style="float: left;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin-right: 6px;"></div>
+  <div class="banter-loader__box" style="float: left;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin-right: 6px;"></div>
+  <div class="banter-loader__box" style="float:left;position:relative;width:20px;height:20px;margin-right:0;margin-bottom:6px;"></div>
+  <div class="banter-loader__box" style="float: left;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin-right: 6px;"></div>
+  <div class="banter-loader__box" style="float: left;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin-right: 6px;"></div>
+  <div class="banter-loader__box" style="float:left;position:relative;width:20px;height:20px;margin-right:0;margin-bottom:6px;"></div>
+</div>
+
+
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 

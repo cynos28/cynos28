@@ -37,6 +37,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
-<h3 align="left">Support:</h3>
+## 💰 You can help me by Donating
 <p><a href="https://www.buymeacoffee.com/cynos28"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cynos28" /></a></p><br><br>

@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
 
 - 🔭 I’m currently working on [Shutterbulky](shutterbulky.com)

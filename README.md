@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 
-[![Visits](https://shields.io/badge/Visits-Your_Count-orange)](https://visitcount.itsvg.in)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 
 - 🔭 I’m currently working on [Shutterbulky](shutterbulky.com)

@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-![](https://komarev.com/ghpvc/?cynos28=your-github-cynos28&color=green)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cynos28&label=Profile%20views&color=0e75b6&style=flat" alt="cynos28" /> </p>
 
 User
 

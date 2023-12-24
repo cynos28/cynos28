@@ -3,7 +3,8 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+User
+[![](https://visitcount.itsvg.in/api?id=cynos28&icon=6&color=3)](https://visitcount.itsvg.in)
 
 
 - 🔭 I’m currently working on [Shutterbulky](shutterbulky.com)

@@ -29,7 +29,10 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=cynos28&theme=dark&hide_border=true)<br/>
+<div> <a href="https://github.com/cynos28" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Stars</h3>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=cynos28&show_icons=true&locale=en&theme=" alt="cynos28" /></p>
+
 
 
 ## 🏆 GitHub Trophies

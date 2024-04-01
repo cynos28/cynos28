@@ -29,9 +29,7 @@
 
 # 📊 GitHub Stats:
 
-<div> <a href="https://github.com/cynos28" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=cynos28&show_icons=true&locale=en&theme=" alt="cynos28" /></p>
+![cynos28's Stats](https://github-readme-stats.vercel.app/api?username=cynos28&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 

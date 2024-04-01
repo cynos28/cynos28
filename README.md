@@ -19,6 +19,7 @@
 
 - ⚡ Fun fact **Bona fide Cynos**
 
+"Hi, I'm Shehan Dulmina, a UI/UX Developer specializing in crafting intuitive and visually appealing digital experiences. Proficient in user research, wireframing, prototyping, and frontend development using HTML, CSS, and JavaScript. I also leverage Figma for seamless design collaboration and prototyping. Dedicated to creating interfaces that delight users and drive engagement. Passionate about staying updated with the latest design trends and technologies. Let's innovate together!"
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/diagon.alley.501) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shehan_dulmina_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shehandulmina) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@coverdrive28) 
